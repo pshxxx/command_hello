@@ -1,5 +1,7 @@
-//want hope wish...
-//plz let me mmmmmm
+//For commit GitHub tutorial
+//GitHub modification
+//+++
+
 print("hello world");
 print("Tell your world");
 print("Tell his world");
